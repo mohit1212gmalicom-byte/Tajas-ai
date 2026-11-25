@@ -1,0 +1,6 @@
+{
+  "name": "TEJAS AI",
+  "description": "TEJAS AI — भारत का अपना AI साथी by Mohit Jaat. Free unlimited AI chat, Hindi & English voice assistant, and image text fixer.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
